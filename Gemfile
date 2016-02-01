@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+ruby '2.2.2'
+gem 'thor'
+gem 'mechanize'
+gem 'rack', '~>1.1'
+gem 'work_queue'
