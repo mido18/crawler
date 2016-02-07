@@ -1,6 +1,5 @@
 require 'mechanize'
 require 'uri'
-require 'pry'
 class Page
   attr_accessor :uri,:links ,:inputs ,:document
 
